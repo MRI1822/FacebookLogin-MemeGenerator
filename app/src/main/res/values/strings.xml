@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FacebookLoginExample</string>
+    <string name="facebook_app_id">520429958777473</string>
+    <string name="fb_login_protocol_scheme">fb520429958777473</string>
+    <string name="myString">Create Meme</string>
+    <string name="top_text_bottomFragment">Top Text</string>
+    <string name="bottom_text_bottomFragment">Bottom Text</string>
+</resources>
